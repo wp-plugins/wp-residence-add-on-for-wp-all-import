@@ -1,4 +1,4 @@
-=== Import Property Listings into WP Residence Theme ===
+=== Import Property Listings into WP Residence ===
 Contributors: soflyy, wpallimport
 Tags: real estate, import real estate, import real estate listings, import properties, import property listings, wpresidence, import wpresidence, import wpresidence properties, import wpresidence listings
 License: GPLv2 or later
