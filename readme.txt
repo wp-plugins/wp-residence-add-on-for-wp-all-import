@@ -5,7 +5,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.1.0
 Tested up to: 4.2.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Easily import property listings from any XML or CSV file to the WP Residence theme with the WP Residence Add-On for WP All Import.
 
@@ -91,6 +91,9 @@ Aside from making your import easier and simpler, the WP Residence Add-On will f
 The WP Residence Add-On for WP All Import uses the Google Maps API to import your location data. For free, and without registration, the API allows you to make 2,500 requests per day. If you need more than that you can create a Google for Work account to make up to 100,000 requests per day.
 
 == Changelog ==
+
+= 1.0.4 =
+* Fix radio options bug
 
 = 1.0.3 =
 * Fix admin notice bug

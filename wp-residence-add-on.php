@@ -4,7 +4,7 @@
 Plugin Name: WP All Import - WP Residence Add-On
 Plugin URI: http://www.wpallimport.com/
 Description: Supporting imports into the WP Residence theme.
-Version: 1.0.3
+Version: 1.0.4
 Author: Soflyy
 */
 
